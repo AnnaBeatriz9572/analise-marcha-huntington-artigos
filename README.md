@@ -1,13 +1,13 @@
-# Análise de Marcha na Doença de Huntington
+# Estudos de artigos científicos
 
-Este repositório reúne estudos desenvolvidos durante a iniciação científica sobre análise de marcha relacionada à Doença de Huntington.
+Este repositório reúne estudos de artigos científicos.
 
 Cada pasta corresponde a um artigo estudado. Dentro de cada pasta estão o notebook principal, o documento explicativo do estudo e o arquivo com as bibliotecas necessárias para executar o código.
 
 ## Organização
 
 ```text
-analise-marcha-huntington-artigos/
+Artigos/
 │
 ├── README.md
 │
